@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="starter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../hUINYA/mpj/mpj-v0_44/lib/starter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../hUINYA/mpj/mpj-v0_44/lib/mpj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../hUINYA/mpj/mpj-v0_44/lib/mpi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
